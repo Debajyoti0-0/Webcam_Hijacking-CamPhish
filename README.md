@@ -29,6 +29,7 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 git clone https://github.com/Debajyoti0-0/Webcam_Hijacking-CamPhish.git
 cd Webcam_Hijacking-CamPhish
 ls
+chmod +x camphish.sh
 bash camphish.sh
 ```
 
