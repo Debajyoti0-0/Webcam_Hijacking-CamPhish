@@ -23,13 +23,6 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
   <li>Perrot Sec OS</li>
 </ul>
 
-# Installing and requirements
-<p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
-
-```
-apt-get install php && apt-get install git && apt-get install wget && sudo apt-get install openssh-server openssh-client
-```
-
 ## Installing (Kali Linux/Termux):
 
 ```
